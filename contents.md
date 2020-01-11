@@ -9,6 +9,8 @@
         - [2019技术和文章.md](./reading-notes/2019技术和文章.md)
         - [2019漫画.md](./reading-notes/2019漫画.md)
         - [2019特殊文档.md](./reading-notes/2019特殊文档.md)
+        - [2020书单.md](./reading-notes/2020书单.md)
+        - [2020漫画.md](./reading-notes/2020漫画.md)
         - [book](./reading-notes/book)
         - [comics](./reading-notes/comics)
         - [paper](./reading-notes/paper)
@@ -26,3 +28,4 @@
     - [who-am-i](./who-am-i)
         - [2019](./who-am-i/2019)
         - [dream](./who-am-i/dream)
+        - [总结](./who-am-i/总结)
