@@ -227,9 +227,26 @@ void HeapRegionRemSet::setup_remset_size() {
 ```
 通过计算可以得知\_max\_fine\_entries=1024, 基于之前计算总共堆外内存可以申请最大值在25G, 而整个系统内存共125G, 堆内存100G迟早会被linux系统kill掉.
 
+简单计算公式, 可能是错的.
 
+```letax
+region\_size\_log = \lfloor\log_2\lfloor(minMemory + maxMemory)/2/2048\rfloor\rfloor\\
+region\_size = 1 << region\_size\_log\\
+region\_size \in [1,32]\\
+region\_size\_log = \lfloor\log_2region\_size\rfloor\\
+CardsPerRegion = region\_size >> 9 \\
+region\_count = maxMemory/region\_size\\
+
+G1RSetRegionEntriesBase = 256 \\
+region\_size\_log\_mb = MAX(region\_size\_log - 20, 0)\\
+G1RSetRegionEntries = G1RSetRegionEntriesBase * (region\_size\_log\_mb + 1) \\
+max_entries_log = \lfloor\log_2G1RSetRegionEntries\rfloor\\
+\_max\_fine\_entries = 1 << max\_entries\_log\\
+native\_memory = region\_count*\_max\_fine\_entries*CardsPerRegion
+```
 
 ## 参考
+
 https://blog.csdn.net/jicahoo/article/details/50933469
 
 https://github.com/jeffgriffith/native-jvm-leaks
