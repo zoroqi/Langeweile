@@ -1,5 +1,22 @@
 # 误以为是内存泄漏的case
 
+-----
+* 目录
+- [误以为是内存泄漏的case](#误以为是内存泄漏的case)
+    - [基本状况](#基本状况)
+    - [基本分析](#基本分析)
+    - [使用到的工具](#使用到的工具)
+    - [逐步排查](#逐步排查)
+    - [基于java nmt分析](#基于java nmt分析)
+            - [nmt使用](#nmt使用)
+            - [分析过程](#分析过程)
+    - [暂未解决](#暂未解决)
+    - [G1GC](#G1GC)
+            - [堆外内存计算](#堆外内存计算)
+    - [参考](#参考)
+-----
+
+
 java运行版本
 
 ```
@@ -229,7 +246,7 @@ void HeapRegionRemSet::setup_remset_size() {
 
 简单计算公式, 可能是错的.
 
-```letax
+$$
 region\_size\_log = \lfloor\log_2\lfloor(minMemory + maxMemory)/2/2048\rfloor\rfloor\\
 region\_size = 1 << region\_size\_log\\
 region\_size \in [1,32]\\
@@ -243,7 +260,7 @@ G1RSetRegionEntries = G1RSetRegionEntriesBase * (region\_size\_log\_mb + 1) \\
 max_entries_log = \lfloor\log_2G1RSetRegionEntries\rfloor\\
 \_max\_fine\_entries = 1 << max\_entries\_log\\
 native\_memory = region\_count*\_max\_fine\_entries*CardsPerRegion
-```
+$$
 
 ## 参考
 
@@ -260,3 +277,4 @@ https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr007
 [JVM G1源码分析和调优](https://book.douban.com/subject/33408230/)
 
 [JVM G1 源码分析（三）- Remembered Sets](https://blog.csdn.net/a860MHz/article/details/97276211)
+
