@@ -1,24 +1,21 @@
-<script type="text/javascript" async
-src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?
-config=TeX-MML-AM_CHTML"
-</script>
 # 误以为是内存泄漏的case
 
 -----
 * 目录
-- [误以为是内存泄漏的case](#误以为是内存泄漏的case)
-    - [基本状况](#基本状况)
-    - [基本分析](#基本分析)
-    - [使用到的工具](#使用到的工具)
-    - [逐步排查](#逐步排查)
-    - [基于java nmt分析](#基于java nmt分析)
-            - [nmt使用](#nmt使用)
-            - [分析过程](#分析过程)
-    - [暂未解决](#暂未解决)
+- [误以为是内存泄漏的case](#%E8%AF%AF%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E7%9A%84case)
+    - [基本状况](#%E5%9F%BA%E6%9C%AC%E7%8A%B6%E5%86%B5)
+    - [基本分析](#%E5%9F%BA%E6%9C%AC%E5%88%86%E6%9E%90)
+    - [使用到的工具](#%E4%BD%BF%E7%94%A8%E5%88%B0%E7%9A%84%E5%B7%A5%E5%85%B7)
+    - [逐步排查](#%E9%80%90%E6%AD%A5%E6%8E%92%E6%9F%A5)
+    - [基于java nmt分析](#%E5%9F%BA%E4%BA%8Ejava+nmt%E5%88%86%E6%9E%90)
+            - [nmt使用](#nmt%E4%BD%BF%E7%94%A8)
+            - [分析过程](#%E5%88%86%E6%9E%90%E8%BF%87%E7%A8%8B)
+    - [暂未解决](#%E6%9A%82%E6%9C%AA%E8%A7%A3%E5%86%B3)
     - [G1GC](#G1GC)
-            - [堆外内存计算](#堆外内存计算)
-    - [参考](#参考)
+            - [堆外内存计算](#%E5%A0%86%E5%A4%96%E5%86%85%E5%AD%98%E8%AE%A1%E7%AE%97)
+    - [参考](#%E5%8F%82%E8%80%83)
 -----
+
 
 
 java运行版本
@@ -250,7 +247,7 @@ void HeapRegionRemSet::setup_remset_size() {
 
 简单计算公式, 可能是错的.
 
-$$
+```
 region\_size\_log = \lfloor\log_2\lfloor(minMemory + maxMemory)/2/2048\rfloor\rfloor\\
 region\_size = 1 << region\_size\_log\\
 region\_size \in [1,32]\\
@@ -264,7 +261,7 @@ G1RSetRegionEntries = G1RSetRegionEntriesBase * (region\_size\_log\_mb + 1) \\
 max_entries_log = \lfloor\log_2G1RSetRegionEntries\rfloor\\
 \_max\_fine\_entries = 1 << max\_entries\_log\\
 native\_memory = region\_count*\_max\_fine\_entries*CardsPerRegion
-$$
+```
 
 ## 参考
 
