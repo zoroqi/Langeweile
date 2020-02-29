@@ -31,7 +31,7 @@
     - [think](./think)
         - [idea](./think/idea)
         - [other](./think/other)
-        - [喜欢的学者.md](./think/喜欢的学者.md)
+        - [喜欢的学者和公众人物.md](./think/喜欢的学者和公众人物.md)
         - [随便感想.md](./think/随便感想.md)
     - [who-am-i](./who-am-i)
         - [2019](./who-am-i/2019)
