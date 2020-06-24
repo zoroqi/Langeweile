@@ -23,6 +23,7 @@
         - [2020](./other/2020)
     - [paper](./paper)
         - [2019](./paper/2019)
+        - [2020](./paper/2020)
     - [technology](./technology)
         - [2019](./technology/2019)
     - [已经阅读书单.md](./已经阅读书单.md)
