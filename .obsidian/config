@@ -1,0 +1,25 @@
+{
+  "theme": "moonstone",
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "tag-pane": true,
+    "page-preview": true,
+    "starred": true,
+    "templates": true,
+    "random-note": true,
+    "slides": true
+  },
+  "showLineNumber": true,
+  "vimMode": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "useMarkdownLinks": true,
+  "spellcheck": false
+}

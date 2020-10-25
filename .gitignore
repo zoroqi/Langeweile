@@ -1,5 +1,6 @@
 .idea
 .DS_Store
 *.zomd
-.obsidian
+.obsidian/cache
+.obsidian/workspace
 think/rubbish
