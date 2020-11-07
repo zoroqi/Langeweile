@@ -21,5 +21,6 @@
   "foldHeading": true,
   "foldIndent": true,
   "useMarkdownLinks": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "enabledPlugins": []
 }
