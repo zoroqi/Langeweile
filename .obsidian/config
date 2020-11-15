@@ -14,7 +14,8 @@
     "starred": true,
     "templates": true,
     "random-note": true,
-    "slides": true
+    "slides": true,
+    "outline": true
   },
   "showLineNumber": true,
   "vimMode": true,
@@ -22,5 +23,6 @@
   "foldIndent": true,
   "useMarkdownLinks": true,
   "spellcheck": false,
-  "enabledPlugins": []
+  "enabledPlugins": [],
+  "newLinkFormat": "relative"
 }
