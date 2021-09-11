@@ -1,0 +1,12 @@
+{
+  "showLineNumber": true,
+  "vimMode": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "useMarkdownLinks": false,
+  "spellcheck": true,
+  "enabledPlugins": [],
+  "newLinkFormat": "shortest",
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true
+}
