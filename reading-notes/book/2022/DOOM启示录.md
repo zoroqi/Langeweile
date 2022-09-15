@@ -6,7 +6,9 @@ authors:
 - 大卫·卡什诺
 startingTime: "2022-05-09"
 endTime: "2022-05-13"
-published: "2003-01"
+published: 2003-01
+douban: "https://book.douban.com/subject/26642310/"
+goodreads: "https://www.goodreads.com/book/show/222146.Masters_of_Doom"
 ---
 
 # DOOM启示录
