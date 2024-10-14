@@ -47,7 +47,7 @@ startingTime: "2021-07-15"
 共产主义入门教材, 对资本主义本质进行分析. 并对共产主义社会如何建立和社会如何维持进行阐述.
 
 ## 关键词
-, #布哈林 #共产党 #马克思 #恩格斯 #宣言 #共产主义 #资本 #农业 #资产 #革命 #改革 #自由 #乌托邦 #理想国 #法治 #民主 #阶级 #斗争 #战争 #国家 #民族 #无产 #苏林 #托拉斯 #辛迪加 #垄断 #竞争
+, #共产党  #共产主义 #乌托邦 #理想国 #法治 #民主 #战争 #国家 #民族 #无产 #苏林 #专制政府 #独裁政府 #竞争
 
 ## 标记
 1. **我们谨以此书献给光荣的共产党,——她象钢铁一样坚强,她体现了无产阶级的全部伟大和力量,体现了它的英雄主义,它的清晰的阶级理性,它对资本的刻骨仇恨和对建设新社会的炽烈热情; 我们谨以此书献给这样的党,——她指挥着百万大军,匍匐在战壕里的战斗,她管理着一个泱泱大国,并在自己的星期六雪里送炭,为人们的星期天作好准备; 我们谨以此书献给久经战斗和胜利锻炼的老近卫军战士,献给定将我们的事业进行到底的年青一代新人; 我们谨以此书献给党的斗士和殉难者,——他们为了党的事业牺牲在战斗频繁的前线,死于敌人的监狱,刺刀,绞架和枪击**
@@ -83,7 +83,7 @@ startingTime: "2021-07-15"
     * 钱却可以积累, 虽然会贬值, 但是钱的贬值速度和物的损毁速度相差很多. 100斤小麦保存期一年, 一年后就是0, 但这100斤小麦变成钱后保值期就远大于一年.
 25. 这种商品象所有的商品一样,具有价值.这个价值是多少呢?第一,它包含已消耗的生产资料的价值,这里包括:使用的原材料,消耗的燃料,机器的磨损部分等等.这一切现在都算进商品的价值.第二,再加上工人的劳动.如果三十名工人花费了三十个小时制出了一件商品,那么,他们就是花费了九百个工作小时,就是说,出产的商品的总价值是由消耗的材料的价值(比方说,这个价值等于六百个小时)和工人用自己劳动增加的新价值(九百小时)构成的,也就是(六百加九百)等于一千五百工作小时.
 26. 资本家自己为这个商品究竟付出了多少呢?他已全部支付了原料的费用,就是说,他已支付了与六百个工作小时的价值相等的全部款额.但是劳动力的费用呢?他是否全部支付了九百个小时呢?整个事情的谜正在于此.根据我们的假设,他支付了工作日的劳动力的全部价值.**如果三十名工人工作了三十个小时,每天十小时,共三天,那么,工厂主付给他们的,只是这几天为恢复他们的劳动力所必需的钱.这笔钱是多少?答案是清楚的:它大大少于九百小时.为什么呢?因为维持我的劳动力而需要的劳动量是一回事,我能够达到的劳动量度则是另一回事.我一天工作十小时.而每天我所需要的吃,穿等等,仅仅等于五小时的价值.**
-    * 这是我之前的一个思考![钱是什么](/think/other/2020/05/钱是什么.md)
+    * 这是我之前的一个思考![[钱是什么]]
 27. **资本是生产剩余价值的价值.资本主义生产是剩余价值的生产.**
     * 其实由上一条, 资本主义并没有生产剩余价值, 而是掠夺他人的劳动.
     * 剩余价值就是彻底的剥削.
@@ -159,7 +159,7 @@ startingTime: "2021-07-15"
     * 随着人数的增多, 信任会越来越难
 78. 早在<共产党宣言>里,马克思就提出了"全世界无产者,联合起来!"的口号.马克思就这一点写道(这几行是<宣言>的结尾):"**共产党人不屑于隐瞒自己的观点和意图.他们公开宣布:他们的目的只有用暴力推翻全部现存的社会制度才能达到.让统治阶级在共产主义革命面前发抖吧.无产者在这个革命中失去的只是锁链.他们获得的将是整个世界.全世界无产者,联合起来!**"
 79. 哪一个国家资本主义托拉斯感到自己在世界市场上越强大越有势力,那它剥削殖民地所得的利润就越多.有了这种额外的利润,它付给自己雇佣奴隶的报酬可以略高于通常的工资.当然这不是付给所有的人,这只是付给"技术熟练的人",即所谓受过训练的工人.因此,工人阶级中的这个阶层常常被资本收买过去.这个阶层开始这样盘算:"如果'我们的'工业在非洲殖民地拥有市场,这就太好了,它将更好地发展,我们雇主的利润就要增加,我们也将得到一些."资本家就是这样依靠殖民地掠夺收买一部分雇佣奴隶,豢养他们,把他们和自己的国家拴在一起.
-80. 马克思在<共产党宣言>中回答了这个问题:**"无产阶级没有祖国."**他是正确的.为什么?原因很简单,因为在资本主义制度下,他们没有政权,因为在资本主义制度下,一切都掌握在资产阶级手里,因为在资本主义制度下,国家——这是镇压工人阶级的工具,是压迫工人阶级的工具.
+80. 马克思在<[[共产党宣言]]>中回答了这个问题:**"无产阶级没有祖国."**他是正确的.为什么?原因很简单,因为在资本主义制度下,他们没有政权,因为在资本主义制度下,一切都掌握在资产阶级手里,因为在资本主义制度下,国家——这是镇压工人阶级的工具,是压迫工人阶级的工具.
     * 无产阶级是没有国家的, 全世界都是无产阶级的.
 81. 只有当无产阶级夺取了国家政权,并成为国家的主人的时候,无产阶级才能有祖国.在那时——也只有在那时——无产阶级才会有祖国,也才会有责任来保卫它:因为在那时,它要保卫的是自己的政权和自己的事业,而不是自己的敌人的政权和自己的压迫者的强盗政策.
 82. 当政权在资产阶级手里的时候,资产阶级就号召"保卫"它,但是随后不久,资产阶级就同罗马尼亚人,捷克斯洛伐克人,奥地利人,同协约国达成协议,共同起来扼杀无产阶级的匈牙利.这就是说,任何资产阶级都非常明白问题的所在.资产阶级自己本身,并以祖国为幌子让所有的公民都来巩固它的资产阶级政权,谁若不同意这样做,就以叛国罪论处,反之,资产阶级则邀集一切力量,肆无忌惮地摧毁无产阶级的祖国.
@@ -246,14 +246,6 @@ startingTime: "2021-07-15"
 * 书中所描述的苏联失败了, 所描绘的很多都不现实. 比如劳动法部分, 这些在当时几乎是无法做到的, 生产力落后根本实现不了.
 * 资本主义一定会灭亡, 资本最终会向无产阶级妥协, 全世界资本对新生代的压迫越来越严重, 最终的反抗即将到来.
 
-## 国际歌歌词
+布哈林是苏共早期的重要领导人之一，一生留下众多理论著作，列宁评价他是苏联共产党中少有的一位理论家。列宁死后，与托洛斯基、史达林、季诺维也夫、加米涅夫、李可夫一起成为苏共的主要领导人。他是史达林在执政初期重要的政治盟友，并曾协助史达林将托洛斯基开除出党，后来又在1926年协助打倒了季诺维也夫和加米涅夫。后与史达林发生矛盾，在1929年失势，被逐出中央政治局。大清洗发生之后，他于1938年被捕，被史达林冠以“**人民公敌、匪帮、法西斯走狗、外国间谍、谋刺列宁的杀人犯**”的罪名，同李可夫一起被判处死刑并立即枪决，后于1988年2月4日获得平反。
 
-| 段落 | 法文 | 中文 |
-| --- | --- | --- |
-| 一 | Debout les damnés de la terre !<br/>Debout les forçats de la faim !<br/>La raison tonne en son cratère,<br/>C'est l'éruption de la fin.<br/>Du passé, faisons table rase,<br/>Foule esclave debout ! debout !<br/>Le monde va changer de base :<br/>Nous ne sommes rien, soyons tout !<br/><br/>C'est la lutte finale,<br/>Groupons-nous, et demain<br/>L'Internationale,<br/>Sera le genre humain.<br/>C'est la lutte finale,<br/>Groupons-nous, et demain<br/>L'Internationale,<br/>Sera le genre humain. | 起来，饥寒交迫的奴隶！<br/>起来，全世界受苦的人！<br/>满腔的热血已经沸腾，<br/>要为真理而斗争！<br/>旧世界打个落花流水，<br/>奴隶们起来，起来！<br/>不要说我们一无所有，<br/>我们要做天下的主人！<br/><br/>这是最后的斗争，<br/>团结起来到明天，<br/>英特纳雄耐尔<br/>就一定要实现！<br/>这是最后的斗争，<br/>团结起来到明天，<br/>英特纳雄耐尔<br/>就一定要实现！ |
-| 二 | Il n'est pas de sauveurs suprêmes,<br/>Ni dieu, ni César, ni tribun,<br/>Producteurs, sauvons-nous nous-mêmes !<br/>Décrétons le salut commun !<br/>Pour que le voleur rende gorge,<br/>Pour tirer l'esprit du cachot,<br/>Soufflons nous-mêmes notre forge,<br/>Battons le fer quand il est chaud !<br/><br/>C'est la lutte finale,<br/>Groupons-nous, et demain<br/>L'Internationale,<br/>Sera le genre humain.<br/>C'est la lutte finale,<br/>Groupons-nous, et demain<br/>L'Internationale,<br/>Sera le genre humain. | 从来就没有什么救世主，<br/>也不靠神仙皇帝！<br/>要创造人类的幸福，<br/>全靠我们自己！<br/>我们要夺回劳动果实，<br/>让思想冲破牢笼！<br/>快把那炉火烧得通红，<br/>趁热打铁才能成功！<br/><br/>这是最后的斗争，<br/>团结起来到明天，<br/>英特纳雄耐尔<br/>就一定要实现！<br/>这是最后的斗争，<br/>团结起来到明天，<br/>英特纳雄耐尔<br/>就一定要实现！ |
-| 三 | L'État comprime et la loi triche,<br/>L'impôt saigne le malheureux ;<br/>Nul devoir ne s'impose au riche,<br/>Le droit du pauvre est un mot creux :<br/>C'est assez languir en tutelle,<br/>L'Égalité veut d'autres lois :<br/>« Pas de droits sans devoirs, dit-elle,<br/>Égaux, pas de devoirs sans droits ! »<br/><br/>C'est la lutte finale,<br/>Groupons-nous, et demain<br/>L'Internationale,<br/>Sera le genre humain.<br/>C'est la lutte finale,<br/>Groupons-nous, et demain<br/>L'Internationale,<br/>Sera le genre humain. | 压迫的国家、空洞的法律，<br/>苛捐杂税榨穷苦。<br/>无义务的富人尽享逍遥，<br/>穷人的权利尽是空话。<br/>受够了“监护”下的沉沦，<br/>平等呼唤新的法律：<br/>没有无义务的权利，<br/>也没有无权利的义务！<br/><br/>这是最后的斗争，<br/>团结起来到明天，<br/>英特纳雄耐尔<br/>就一定要实现！<br/>这是最后的斗争，<br/>团结起来到明天，<br/>英特纳雄耐尔<br/>就一定要实现！ |
-| 四 | Hideux dans leur apothéose,<br/>Les rois de la mine et du rail<br/>Ont-ils jamais fait autre chose<br/>Que dévaliser le travail ?<br/>Dans les coffres-forts de la bande,<br/>Ce qu'il a crée s'est fondu,<br/>En décrétant qu'on le lui rende,<br/>Le peuple ne veut que son dû.<br/><br/>C'est la lutte finale,<br/>Groupons-nous, et demain<br/>L'Internationale,<br/>Sera le genre humain.<br/>C'est la lutte finale,<br/>Groupons-nous, et demain<br/>L'Internationale,<br/>Sera le genre humain. | 矿井和铁路的帝王，<br/>在神坛上奇丑无比。<br/>他们除了掠夺劳动，<br/>还会做些什么呢？<br/>在他们的保险箱里，<br/>劳动的财富堆积成山！<br/>从那些剥削者的手里，<br/>人民只是讨回血债。<br/><br/>这是最后的斗争，<br/>团结起来到明天，<br/>英特纳雄耐尔<br/>就一定要实现！<br/>这是最后的斗争，<br/>团结起来到明天，<br/>英特纳雄耐尔<br/>就一定要实现！ |
-| 五 | Les rois nous saoulaient de fumée,<br/>Paix entre nous, guerre aux tyrans !<br/>Appliquons la grève aux armées,<br/>Crosse en l'air et rompons les rangs !<br/>S'ils s'obstinent ces cannibales,<br/>A faire de nous des héros,<br/>Ils sauront bientôt que nos balles<br/>Sont pour nos propres généraux !<br/><br/>C'est la lutte finale,<br/>Groupons-nous, et demain<br/>L'Internationale,<br/>Sera le genre humain.<br/>C'est la lutte finale,<br/>Groupons-nous, et demain<br/>L'Internationale,<br/>Sera le genre humain. | 国王用硝烟迷惑我们，<br/>我们要团结讨伐他。<br/>让军中战士一齐罢工，<br/>使暴力机器乱作一团。<br/>食人魔们若敢再下命令，<br/>叫我们送死成其虚荣；<br/>他们将会看到射来的子弹，<br/>是忠于我们的将军！<br/><br/>这是最后的斗争，<br/>团结起来到明天，<br/>英特纳雄耐尔<br/>就一定要实现！<br/>这是最后的斗争，<br/>团结起来到明天，<br/>英特纳雄耐尔<br/>就一定要实现！ |
-| 六 | Ouvriers, paysans, nous sommes<br/>Le grand parti des travailleurs ;<br/>La terre n'appartient qu'aux hommes,<br/>L'oisif ira loger ailleurs.<br/>Combien de nos chairs se repaissent !<br/>Mais si les corbeaux, les vautours,<br/>Un de ces matins disparaissent,<br/>Le soleil brillera toujours !<br/><br/>C'est la lutte finale,<br/>Groupons-nous, et demain<br/>L'Internationale,<br/>Sera le genre humain.<br/>C'est la lutte finale,<br/>Groupons-nous, et demain<br/>L'Internationale,<br/>Sera le genre humain. | 是谁创造了人类世界？<br/>是我们劳动群众！<br/>一切归劳动者所有，<br/>哪能容得寄生虫？！<br/>最可恨那些毒蛇猛兽，<br/>吃尽了我们的血肉！<br/>一旦把它们消灭干净，<br/>鲜红的太阳照遍全球！<br/><br/>这是最后的斗争，<br/>团结起来到明天，<br/>英特纳雄耐尔<br/>就一定要实现！<br/>这是最后的斗争，<br/>团结起来到明天，<br/>英特纳雄耐尔<br/>就一定要实现！ |
-
+![[always#国际歌]]
