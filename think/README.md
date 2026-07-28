@@ -32,3 +32,24 @@
 4. 整理以上内容, 以年月日切分文件生成永久笔记
 
 `Zettelkasten`可以实现链接的graph. 但是对已有文档迁移有点困难. `tag`不支持产生graph.
+
+
+```base
+filters:
+  or:
+    - file.path.startsWith("Langeweile/think")
+formulas:
+  month: startingTime.format("YYYY-MM")
+  阅读时间: startingTime-endTime
+views:
+  - type: table
+    name: 表格
+    groupBy:
+      property: formula.month
+      direction: DESC
+    order:
+      - file.name
+      - aliases
+      - file.tags
+    sort:
+```
